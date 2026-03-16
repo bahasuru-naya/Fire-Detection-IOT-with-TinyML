@@ -106,7 +106,7 @@ Output Layer      →  1 neuron, Sigmoid activation (binary classification)
 | Random Forest | ~99% | competitive | 1.08 |
 | XGBoost | ~99% | ~0.03 | 0.14 |
 | Decision Tree | 99.10% | moderate | compact |
-| **Custom NN (ours)** | **96.49%** | **0.1131** | **0.03** |
+| **Custom Model** | **96.49%** | **0.1131** | **0.03** |
 | MLP | < 96.49% | elevated | ~0.03 |
 | KNN | moderate | elevated | — |
 | Logistic Regression | moderate | — | minimal |
@@ -147,10 +147,6 @@ Conversion confirmed that quantization did not cause significant performance deg
 | 📊 Dataset | [View on Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/bahasurunayanakantha/manual-fire-dataset)) |
 | 🧠 Model Training Notebook | [View on Kaggle]([https://www.kaggle.com](https://www.kaggle.com/code/bahasurunayanakantha/fire-detection-iot-with-tinyml)) |
 
----
 
 
 
----
-
-> **Index Terms:** Fire detection · IoT sensors · Machine learning · Neural network · TensorFlow Lite · Edge computing
