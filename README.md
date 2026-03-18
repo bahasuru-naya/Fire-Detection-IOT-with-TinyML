@@ -144,8 +144,8 @@ Conversion confirmed that quantization did not cause significant performance deg
 
 | Resource | Link |
 |----------|------|
-| 📊 Dataset | [View on Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/bahasurunayanakantha/manual-fire-dataset)) |
-| 🧠 Model Training Notebook | [View on Kaggle]([https://www.kaggle.com](https://www.kaggle.com/code/bahasurunayanakantha/fire-detection-iot-with-tinyml)) |
+| 📊 Dataset | [View on Kaggle](https://www.kaggle.com/datasets/bahasurunayanakantha/manual-fire-dataset) |
+| 🧠 Model Training Notebook | [View on Kaggle](https://www.kaggle.com/code/bahasurunayanakantha/fire-detection-iot-with-tinyml) |
 
 
 
